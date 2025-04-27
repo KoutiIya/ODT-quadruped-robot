@@ -22,12 +22,7 @@ This project documents the process of designing, building, and testing a small q
 
 💻 Software
 	•	Programming Language: MicroPython
- 
-  •	Libraries Used:
-	•	machine, time (MicroPython standard)
-	•	Custom I2C code for PCA9685 communication (no external libraries used)
- 
-  •	Development Tools:
+        •	Development Tools:
 	•	Mu Editor
 	•	Fusion 360 (CAD modeling)
 	•	Vizcom (concept sketches)

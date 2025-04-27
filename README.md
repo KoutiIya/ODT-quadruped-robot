@@ -5,7 +5,7 @@ This project documents the process of designing, building, and testing a small q
 📚 Overview
 	•	Goal: Build a functional four-legged walking robot using an ESP32, servo motors, and custom-designed mechanical parts.
 	•	Challenges: Stability, joint design, gait, etc.
-	•	Outcome: A working physical prototype that could stand, move slightly, but needs major improvements in stability, weight distribution, and mechanical joints.
+	•	Outcome: A physical prototype that could stand, move slightly, but needs major improvements in stability, weight distribution, and mechanical joints.
 
 ⸻
 
